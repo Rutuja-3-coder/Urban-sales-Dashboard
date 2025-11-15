@@ -41,3 +41,4 @@ Understand customer buying patterns
 Optimize inventory based on category trends
 Recognize discount strategies affecting profit
 Make data-driven decisions for urban market growth
+![dasboard preview](https://github.com/Rutuja-3-coder/Urban-sales-Dashboard/blob/main/Urban%20Sales.jpeg)
